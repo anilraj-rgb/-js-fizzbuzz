@@ -6,4 +6,10 @@
 2. Creare una lista
 3. Utilizzare il ciclo per riempire la lista
 */
-   
+
+// Fase di gestione eventi
+// Fase di raccolta dati
+// Fase di elaborazione e produzione
+
+// Creo una lista
+const list = document.createElement("ul");
